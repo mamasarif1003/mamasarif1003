@@ -1,4 +1,4 @@
-![image](https://github.com/mamasarif1003/mamasarif1003/assets/134198260/d0275542-4eff-451c-9936-a16847d51d50)<h1 align="center">Hi 👋, I'm Ongky Arif Wibowo</h1>
+<h1 align="center">Hi 👋, I'm Ongky Arif Wibowo</h1>
 <h3 align="center">Dedicating as Backend Developer | Data Scientist | Machine Learning Engineer</h3>
 <img align="right" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
