@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ongky Arif Wibowo</h1>
+![image](https://github.com/mamasarif1003/mamasarif1003/assets/134198260/d0275542-4eff-451c-9936-a16847d51d50)<h1 align="center">Hi 👋, I'm Ongky Arif Wibowo</h1>
 <h3 align="center">Dedicating as Backend Developer | Data Scientist | Machine Learning Engineer</h3>
-<img align="right" Width="400" src"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm0wczJiMGMzMDdqN3o5emFnY3MyaXA1YjRpNDRnaDY0MmttNjEyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
+<img align="right" Width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm0wczJiMGMzMDdqN3o5emFnY3MyaXA1YjRpNDRnaDY0MmttNjEyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 - 🌱 I’m currently learning **Node, Python, Javascript**
 
