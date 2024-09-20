@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ongky Arif Wibowo</h1>
-<h3 align="center">A passionate data scientist and machine learning engineer from Indonesia</h3>
+<h3 align="center">A passionate data scientist, machine learning engineer and also web developer from Indonesia</h3>
 <img align="right" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍🎓 I'm graduated from **Amikom Yogyakarta University**
